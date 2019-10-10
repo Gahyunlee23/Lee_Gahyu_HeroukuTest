@@ -1,5 +1,5 @@
 # Herouku Test 
-For the favorite thing hw, should link github and herouku linked.
+Build simple one page about the favorite product and link github with heroku. 
 
 ## Usage
 

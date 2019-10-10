@@ -1,17 +1,34 @@
-# Node and Express for HW1
+# Herouku Test 
+For the favorite thing hw, should link github and herouku linked.
 
-You can use this example file as your starting point, if you're having trouble with the build files in class.
+## Usage
 
-Clone the project wherever you like. CD into the project, and NPM install
+Click on the link and check it out!
 
-Run NPM start, or node app - either way, you should get an instance running on localhost:3000
 
-To compile the SASS you can write **sass --watch sass:public/css --style compressed** in a terminal window. That will compile all of your sass to the public/css folder
+## Getting Started
+This is a basic node, gulp, js, sass, npm build. If you don't know what any of these are, start here: Mozilla Developer Network
+Clone this to the location of your choice, open in your favourite editor and hack away!
 
-Remember - you don't have to include the /public part of your static asset resource paths. css/main.css or images/name_of_image is fine.
 
-We're just sending index.html back via the main route, so build your project in that file as before and you should be good to go!
+## Contributing
 
-Remember to add the node.js buildpack on Heroku, and include the live Heroku link with your submission.
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
 
-Cheers!
+
+
+## History
+
+First Version Created October 10, 2019.
+
+## Credits
+
+1. [Gahyun Lee](g_lee89360@fanshaweonline.ca) - Back End Dev 
+
+
+
+

@@ -27,7 +27,7 @@ First Version Created October 10, 2019.
 
 ## Credits
 
-1. [Gahyun Lee](g_lee89360@fanshaweonline.ca) - Back End Dev 
+1. [Gahyun Lee](g_lee89360@fanshaweonline.ca)
 
 
 

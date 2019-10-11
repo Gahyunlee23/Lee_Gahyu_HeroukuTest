@@ -89,7 +89,7 @@ h1, h2, h3, h4, p {
     }
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 48em) {
     .mainHeader {
         height: 150px;
         font-size: 6vh;
@@ -151,7 +151,7 @@ h1, h2, h3, h4, p {
     }
 }
 
-@media screen and (min-width: 1170px) {
+@media screen and (min-width: 73.125em) {
     .product-one {
         img {
             height: 300px;
